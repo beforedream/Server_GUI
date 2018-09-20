@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="Server_Socket_GUI">
+    </qresource>
+</RCC>
